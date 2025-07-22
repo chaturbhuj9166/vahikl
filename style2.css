@@ -1,0 +1,175 @@
+@media (max-width: 320px){
+
+
+  .item{ 
+        display: none;
+
+    }
+    #first i{
+        display: block;
+    }
+   
+
+    .pic{
+    width: 182%;
+    object-fit: cover;
+}
+.part3{
+    width: 173%;
+
+}
+.part4{
+    width: 143%;
+    flex-direction: column;
+    
+}
+.main2{
+    width: 100%;
+    height: 100%;
+   
+} 
+.pic2{
+    width: 100%;
+    object-fit: cover;
+}
+.pic2 img{
+    width: 100%;
+    margin-top: 30px;
+}
+.part5{
+    width:420px;
+    flex-direction: column;
+    gap: 5rem;
+    display: inline-block;
+}
+
+.main3{
+    width: 100%;
+   
+}
+.pera5{
+    width: 79%;
+}
+.part6{
+width: 420px;
+gap: 5rem;
+flex-direction: column;
+display: inline-block;
+}
+.main4{
+    width: 79%;
+}
+.pic6{
+    width: 100%;
+    /* height: 200px; */
+  
+}
+.part7{
+    width: 79%;
+    margin-top: 10px;
+    margin-left: 10rem;
+}
+.bdabox{
+    width: 100%;
+    flex-direction: column;
+    margin-left: 8rem;
+
+}
+.bdabox1{
+    width: 100%;
+    flex-direction: column;
+    margin-left: 8rem;
+}
+.part8{
+    width: 100%;
+    margin-left: 8rem;
+}
+.mainbox{
+    display: block;
+    flex-direction: column;
+    gap: 50px;
+    width: 500px;
+    margin: 50px auto;
+}
+.linebox1 ul , .linebox2 ul, .linebox3 ul {
+    font-size: 1.3rem ;
+    margin: 4rem auto;
+}
+.part9{
+    width: 100%;
+    margin-left: 7rem;
+}
+.part10{
+    flex-direction: column;
+    width: 400px;
+    margin-left: 4rem;
+}
+.photo{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.photo1{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+.part11{
+    width: 100%;
+    margin-left: 7rem;
+}
+.dbamain3{
+    flex-direction: column;
+}
+.box8{
+   width: 400px;
+    margin-left: 15rem;
+}
+.part12{
+    width: 100%;
+    margin-left: 7rem;
+}
+.nichodbo{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-left: 6rem;
+}
+
+}
+/* @media (max-width: 1024px){
+.part3{
+    width: 70%;
+}
+.part4{
+    flex-direction: column;
+    margin-top: 90px;
+}
+.box1{
+    width: 5px;
+}
+.pic2{
+    width: 100%;
+    height: 100%;
+}
+.pic2 img{
+    width: 60%;
+    height: 90%;
+}
+.main2{
+    width: 100%;
+}
+.pic2{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.pic2 img{
+    width: 90%;
+    height: 90%;
+
+}
+.part5{
+    flex-direction: column;
+}
+}  */
